@@ -50,7 +50,7 @@ h1, h2, h3, h4 {
 .hero { 
     height: 100vh; position: relative; display: flex;
     align-items: center; justify-content: center; text-align: center;
-    background-image: url('Images/kku.png');
+    background-image: url('Images/KKU.jpg');
     background-size: cover; background-position: center;
     background-color: #333; 
 }
